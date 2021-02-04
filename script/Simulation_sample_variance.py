@@ -5,6 +5,8 @@ import matplotlib.pyplot as plt
 import random
 # import time
 
+# Based on Khan Academy - simulations:
+# https://www.khanacademy.org/math/ap-statistics/summarizing-quantitative-data-ap/more-standard-deviation/v/simulation-showing-bias-in-sample-variance
 
 
 
